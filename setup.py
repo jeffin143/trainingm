@@ -8,12 +8,12 @@ Created on Thu Apr  5 18:46:20 2018
 
 from setuptools import setup
 
-setup(name='model',
+setup(name='models',
       version='0.1',
       description='The funniest joke in the world',
       url='https://github.com/jeffin143/trainingm',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['model'],
+      packages=['models'],
       zip_safe=False)
