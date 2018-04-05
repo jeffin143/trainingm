@@ -9,3 +9,4 @@ from .train import stratified_cv
 from .train import show_cm
 from .train import plot_cm
 from .train import plot_roc
+from .start import take
